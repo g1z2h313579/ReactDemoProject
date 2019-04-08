@@ -1,0 +1,15 @@
+.mylog{
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    Button{
+        display: block;
+        width: 100%;
+    }
+    h1{
+        text-align: center
+    }
+}

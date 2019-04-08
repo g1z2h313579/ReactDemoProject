@@ -1,0 +1,72 @@
+[
+    {
+        "name" : "第一项",
+        "to" : "one",
+        "id" : 1,
+        "icon" : "like"
+    },
+    {
+        "name" : "第二项",
+        "id" : 2,
+        "icon" : "rocket",
+        "children" : [
+            {
+                "name" : "二的子项",
+                "to" : "two",
+                "id" : 3,
+                "icon" : "gift"
+            }
+        ]
+    },
+    {
+        "name" : "第三项",
+        "to" : "three",
+        "id" : 4,
+        "icon" : "crown"
+    },
+    {
+        "name" : "第四项",
+        "to" : "four",
+        "id" : 5,
+        "icon" : "deployment-unit"
+    },
+    {
+        "name" : "第五项",
+        "id" : 6,
+        "icon" : "dollar",
+        "children" : [
+            {
+                "name" : "五的子项1",
+                "to" : "five",
+                "id" : 7,
+                "icon" : "gold"
+            },
+            {
+                "name" : "五的子项2",
+                "to" : "six",
+                "id" : 8,
+                "icon" : "api"
+            },
+            {
+                "name" : "五的子项3",
+                "to" : "seven",
+                "id" : 9,
+                "icon" : "thunderbolt"
+            }
+        ]
+    },
+    {
+        "name" : "第六项",
+        "id" : 10,
+        "icon" : "fire",
+        "children" : [
+            {
+                "name" : "二的子项",
+                "to" : "eight",
+                "id" : 11,
+                "icon" : "money-collect"
+            }
+        ]
+    }
+
+]

@@ -1,0 +1,6 @@
+[
+    {"userName" : 123, "passWord" : 123, "nik" : "汪"},
+    {"userName" : "admin", "passWord" : "admin", "nik" : "喵"},
+    {"userName" : "gzh", "passWord" : "gzh", "nik" : "唧"},
+    {"userName" : "aaa", "passWord" : "aaa", "nik" : "嘤"}
+]
